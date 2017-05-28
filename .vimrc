@@ -1,6 +1,6 @@
 ":execute pathogen#infect()
 ":filetype plugin indent on
-:filetype on
+":filetype on
 :filetype plugin on
 :filetype indent on
 :syntax enable
